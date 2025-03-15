@@ -1,0 +1,16 @@
+
+receptor = receptor/3poz.pdbqt
+ligand = ligands\TAK285.pdbqt
+out = results/TAK285_out.pdbqt
+
+center_x = 19.543
+center_y = 24.708
+center_z = 15.191
+
+size_x = 62.0
+size_y = 66.0
+size_z = 66.0
+
+exhaustiveness = 8
+num_modes = 9
+energy_range = 3
